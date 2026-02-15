@@ -1,2 +1,4 @@
-# estudo_git
-Estudo sobre Git e Github
+# estudo\_git
+
+Estudo sobre Git e GitHub - Fev/2026
+
